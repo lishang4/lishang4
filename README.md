@@ -1,77 +1,77 @@
+### Hi there, I'm [Lishang][website] 👋
+
+[![Website](https://img.shields.io/website?label=blog.lishang4.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://blog.lishang4.com/)
+
+## I'm on my way to be a Developer!
+
+- 🌱 I’m currently learning everything :facepunch:
+- 🥅 2020 Goals: Contribute more to Open Source projects
+
+
+### Connect with me:
+
+[<img align="left" alt="lishang4.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="cow812444 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="lishang4 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Jenkins" width="26px" src="https://img.icons8.com/color/48/000000/jenkins.png" />
+<img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+<br />
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [python: json轉xml](https://blog.lishang4.com/2020/08/python-json%e8%bd%89xml/)
+- [Strict-Transport-Security](https://blog.lishang4.com/2020/08/strict-transport-security/)
+- [X-Frame-Options](https://blog.lishang4.com/2020/08/x-frame-options/)
+- [Let’s Encrypt free SSL certificate – certbot](https://blog.lishang4.com/2020/08/lets-encrypt-free-ssl-certificate-certbot/)
+- [多階段構建(Multi-Stage)幫Docker image瘦身](https://blog.lishang4.com/2020/08/%e5%a4%9a%e9%9a%8e%e6%ae%b5%e6%a7%8b%e5%bb%bamulti-stage%e5%b9%abdocker-image%e7%98%a6%e8%ba%ab/)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://blog.lishang4.com)
+
+---
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+  <!--START_SECTION:activity-->
 1. undefined
-
 2. undefined
-
 3. undefined
-
 4. undefined
 5. undefined
+  <!--END_SECTION:activity-->
 
+</details>
 
-6. undefined
+<details>
+  <summary>:zap: Github Stats</summary>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lishang4&layout=compact)](https://github.com/lishang4)
+  
+  [![Lishang4's github stats](https://github-readme-stats.vercel.app/api?username=lishang4)](https://github.com/lishang4)
 
-7. undefined
-8. undefined
-9. undefined
+</details>
 
-10. undefined
-
-11. undefined
-
-12. undefined
-13. undefined
-14. undefined
-15. undefined
-16. undefined
-17. undefined
-18. undefined
-19. undefined
-20. undefined
-21. undefined
-22. undefined
-23. undefined
-
-24. undefined
-25. undefined
-
-26. undefined
-
-27. undefined
-
-28. undefined
-29. undefined
-30. undefined
-31. undefined
-32. undefined
-33. undefined
-34. undefined
-
-35. undefined
-
-36. undefined
-
-37. undefined
-38. undefined
-39. undefined
-40. undefined
-41. undefined
-42. undefined
-43. undefined
-44. undefined
-45. undefined
-46. undefined
-
-47. undefined
-
-48. undefined
-49. undefined
-50. undefined
-51. undefined
-52. undefined
-53. undefined
-
-54. undefined
-
-55. undefined
-56. undefined
-57. undefined
+[website]: https://blog.lishang4.com
+[youtube]: https://www.youtube.com/cow812444
+[instagram]: https://instagram.com/lishang4
