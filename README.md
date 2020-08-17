@@ -51,10 +51,8 @@
 ---
 
 <details>
-  <summary>:zap: Recent Github Activity</summary>
-  
+  <summary>:zap: Github Stats</summary>
   <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
 
 </details>
 
