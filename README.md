@@ -65,10 +65,10 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
- 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lishang4&layout=compact)
   
-  ![Lishang4's github stats](https://github-readme-stats.vercel.app/api?username=lishang4)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lishang4&layout=compact)](https://github.com/lishang4)
+  
+  [![Lishang4's github stats](https://github-readme-stats.vercel.app/api?username=lishang4)](https://github.com/lishang4)
 
 </details>
 
