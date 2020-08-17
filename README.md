@@ -70,6 +70,6 @@
 
 </details>
 
-[website]: https://lishang4.com
+[website]: https://blog.lishang4.com
 [youtube]: https://www.youtube.com/cow812444
 [instagram]: https://instagram.com/lishang4
