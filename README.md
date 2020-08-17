@@ -64,8 +64,8 @@
 </details>
 
 <details>
-  <summary>:zap: Github Stats</summary>
-
+  <summary><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> Github Stats</summary>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lishang4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   [![Lishang4's github stats](https://github-readme-stats.vercel.app/api?username=lishang4)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
