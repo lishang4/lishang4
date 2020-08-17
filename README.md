@@ -61,7 +61,7 @@
   5. 🗣 Commented on [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
   <!--END_SECTION:activity-->
 
-
+</details>
 
 <details>
   <summary>:zap: Github Stats</summary>
