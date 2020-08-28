@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LFTP: FATAL ERROR: HOST KEY VERIFICATION FAILED 解法](https://blog.lishang4.com/2020/08/lftp-fatal-error-host-key-verification-failed-%e8%a7%a3%e6%b3%95/)
 - [python: json轉xml](https://blog.lishang4.com/2020/08/python-json%e8%bd%89xml/)
 - [Strict-Transport-Security](https://blog.lishang4.com/2020/08/strict-transport-security/)
 - [X-Frame-Options](https://blog.lishang4.com/2020/08/x-frame-options/)
 - [Let’s Encrypt free SSL certificate – certbot](https://blog.lishang4.com/2020/08/lets-encrypt-free-ssl-certificate-certbot/)
-- [多階段構建(Multi-Stage)幫Docker image瘦身](https://blog.lishang4.com/2020/08/%e5%a4%9a%e9%9a%8e%e6%ae%b5%e6%a7%8b%e5%bb%bamulti-stage%e5%b9%abdocker-image%e7%98%a6%e8%ba%ab/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.lishang4.com)
